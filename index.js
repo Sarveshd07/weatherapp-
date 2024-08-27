@@ -56,3 +56,5 @@ async function getWeatherData(cityValue) {
     weatherDataEl.querySelector(".details").innerHTML = "";
   }
 }
+
+//Test commit
